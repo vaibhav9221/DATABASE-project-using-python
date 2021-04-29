@@ -3,7 +3,9 @@ This project is all about accessing you Database  with the help of python .
 Approach used in this is object oriented programming and importing module .
 
 # HOw to connect my sql with python 
-type "pip install mysql-connector-python" on your terminal 
+Connection established between python and MySql is by typing
+"pip install mysql-connector-python" on  your Termial. 
+  
 
 # Use of project
 You can manipulate data in the database using python laguage only.
